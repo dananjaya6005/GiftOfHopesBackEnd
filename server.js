@@ -72,7 +72,7 @@ app.get("/afterpayment", async (req, res) => {
        <h2>Payment information successfully stored.</h2>
        <br />
        <br />
-        <a href="https://655ae595551d443cabb7ca94--fancy-conkies-9c7b7d.netlify.app/">Go back to the homepage</a>
+        <a href="https://656f6543eb8faf1a07ef8960--deft-biscuit-52d2df.netlify.app/">Go back to the homepage</a>
 
      </body>
    </html>
